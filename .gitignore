@@ -1,0 +1,3 @@
+#ignorar arquivos ide que não precisa commitar
+*.txt
+*.log
